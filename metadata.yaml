@@ -1,0 +1,29 @@
+_repo: Misticas-poesias_61415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adler, María Raquel
+    aliases:
+    - Adler, Maria Raquel
+    - Adler, Raquel
+    birthdate: 1901
+    deathdate: 1974
+    gutenberg_agent_id: '51413'
+    url: http://www.gutenberg.org/2009/agents/51413
+    wikipedia: https://es.wikipedia.org/wiki/Mar%C3%ADa_Raquel_Adler
+description: ''
+gutenberg_issued: '2020-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61415'
+  lccn: '35029296'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentine poetry'
+- !lcc 'PQ'
+- GITenberg
+title: Místicas; poesías
+url: http://www.gutenberg.org/ebooks/61415
